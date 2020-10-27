@@ -1,13 +1,13 @@
 #!/bin/bash
 
 export DEFAULT_LOCATION=northeurope
-export SIRMIONE_ALIAS=zaxsirmione
-export LIMONE_ALIAS=zaxlimone
-export SCORPIO_ALIAS=zaxscorpio
-export VIRGO_ALIAS=zaxvirgo
-export LIBRA_ALIAS=zaxlibra
-export ZODIAC_ALIAS=zaxzodiac
-export DB_ADMIN_USER=nick
+export SIRMIONE_ALIAS=pr9237sirmione
+export LIMONE_ALIAS=pr9237limone
+export SCORPIO_ALIAS=pr9237scorpio
+export VIRGO_ALIAS=pr9237virgo
+export LIBRA_ALIAS=pr9237libra
+export ZODIAC_ALIAS=pr9237zodiac
+export DB_ADMIN_USER=cloud98765
 export AAD_DOMAIN=xekina.onmicrosoft.com
 export AAD_TENANTID=3bc03625-3a0a-48c5-8aa5-12f22e401fff
 export AAD_CLIENTID=ccee7608-940c-42d9-ba86-a2845ef3a808
