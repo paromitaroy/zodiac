@@ -2,7 +2,7 @@ name: Deploy Libra App
 
 env:
    DEFAULT_LOCATION: northeurope
-   LIBRA_ALIAS: zaxlibra
+   LIBRA_ALIAS: pr9237libra
 #on:
 #  push:
 #    paths:
